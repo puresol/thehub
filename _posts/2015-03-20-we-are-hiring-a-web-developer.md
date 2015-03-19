@@ -10,11 +10,13 @@ recruiter: MyLadyBug
 
 ## Duties
 - Display strong sense of teamwork
-- Be accountable for the assigned tasks Be proactive in resolving blocking issues
+- Be accountable for the assigned tasks
+- Be proactive in resolving blocking issues
 
 ## Responsibilities
 - Design database structure
-- Design and implement backend web services Ensure on-time delivery
+- Design and implement backend web services
+- Ensure on-time delivery
 - Ensure quality of deliverables
 
 ## Qualification

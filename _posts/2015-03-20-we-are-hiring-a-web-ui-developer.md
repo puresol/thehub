@@ -13,10 +13,11 @@ recruiter: MyLadyBug
 - Be accountable for the assigned tasks
 - Be proactive in resolving blocking issues
 
-
 ## Responsibilities
 - Work closely with design team
-- Turn designs into HTML5 canvas or svg Generate graph for data visualization Ensure on-time delivery
+- Turn designs into HTML5 canvas or svg
+- Generate graph for data visualization
+- Ensure on-time delivery
 - Ensure quality of deliverables
 
 ## Qualification
