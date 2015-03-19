@@ -21,7 +21,8 @@ recruiter: MyLadyBug
 
 ## Qualification
 - Curiosity, passion for web technologies
-- HTML/CSS - Bootstrap, Foundation, or equivalences Javascript, event-based programming
+- HTML/CSS - Bootstrap, Foundation, or equivalences
+- Javascript, event-based programming
 - REST api
 - Ruby on Rails, or equivalences
 - Postgres DB, MySQL, or equivalences

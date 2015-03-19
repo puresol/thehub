@@ -22,9 +22,11 @@ recruiter: MyLadyBug
 
 ## Qualification
 - Curiosity, passion for web technologies
-- HTML/CSS - Bootstrap, Foundation, or equivalences Javascript, event-based programming
+- HTML/CSS - Bootstrap, Foundation, or equivalences
+- Javascript, event-based programming
 - Two.js, Three.js, EaselJS, or equivalences
-- Mouse and keyboard interaction with HTML5 graphics GIT
+- Mouse and keyboard interaction with HTML5 graphics
+- GIT
 - D3 is a plus*
 
 ---
