@@ -20,6 +20,6 @@ defaults:
       recruiter:  Pure Solutions
 
 # Custom vars
-version:          1.0.1
+version:          1.0.2
 github:
   repo:           https://github.com/puresol/thehub
