@@ -3,17 +3,23 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            The Hub
+tagline:          Get it started together. Quickly.
+url:              http://puresol.github.io/thehub
 paginate:         1
-baseurl:          /
+baseurl:          /project-name
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Pure Solutions
+  url:            http://puresolutions.com.vn
+  email:          contact@puresolutions.com.vn
+defaults:
+  -
+    scope:        
+      path:       ""
+    values:
+      recruiter:  Pure Solutions
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/puresol/thehub

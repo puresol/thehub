@@ -1,30 +1,15 @@
 ---
 layout: page
-title: About
+title: About us
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Right now, [**`The Hub`**](/) is a closed group existed for the purpose of helping local technology groups look for _talented members_ suitable for their projects.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+We're physically based in Ho Chi Minh City, Vietnam. Below is a list of business partners that we have worked with:
 
-There are currently two themes built on Poole:
+- [Pure Solutions](http://puresolutions.com.vn)
+- MyLadyBug
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+---
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Inquiries? Please don't hesitate to connect with us at [contact@puresolutions.com.vn](mailto:contact@puresolutions.com.vn)
