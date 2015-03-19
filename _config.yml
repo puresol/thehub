@@ -7,7 +7,7 @@ title:            The Hub
 tagline:          Get it started together. Quickly.
 url:              http://puresol.github.io/thehub
 paginate:         1
-baseurl:          /thehub
+baseurl:          /
 author:
   name:           Pure Solutions
   url:            http://puresolutions.com.vn
