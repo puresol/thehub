@@ -31,7 +31,7 @@ validTill: 25/04/2015
 - Lương cao hơn nếu có hơn 01 năm kinh nghiệm với **PrestaShop** (xin gửi `code sample` kèm theo CV)
 - Lương cao hơn nữa nếu có hơn 02 năm kinh nghiệm với **PrestaShop**
 - Làm việc tại [TP. HCM, Quận 3](http://www.worksaigon.com/)
-- Sau khi kết thúc dự án sẽ được ưu tiên review công việc toàn thời gian tại công ty
+- Sau khi kết thúc dự án sẽ được xem xét review công việc toàn thời gian tại công ty
 
 ---
 
