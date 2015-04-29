@@ -1,0 +1,36 @@
+.cover .img .text strong {
+	font-size: 1.5em;
+	text-transform: lowercase;
+}
+
+.cover .img .text h1 {
+	color: #FFF;
+}
+
+.cover .img .text {
+	text-align: left;
+	padding-top: 40px;
+	margin: auto;
+	max-width: 38rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.cover .img {
+	width: 100%;
+	height: 340px;
+	position: absolute;
+	top: 0px;
+	left: 0;
+	text-align: center;
+	background: -webkit-linear-gradient(90deg, #ffb347 10%, #ffcc33 90%); /* Chrome 10+, Saf5.1+ */
+	background:    -moz-linear-gradient(90deg, #ffb347 10%, #ffcc33 90%); /* FF3.6+ */
+	background:     -ms-linear-gradient(90deg, #ffb347 10%, #ffcc33 90%); /* IE10 */
+	background:      -o-linear-gradient(90deg, #ffb347 10%, #ffcc33 90%); /* Opera 11.10+ */
+	background:         linear-gradient(90deg, #ffb347 10%, #ffcc33 90%); /* W3C */
+	z-index: 0;
+}
+
+.cover {
+	height: 280px;
+}

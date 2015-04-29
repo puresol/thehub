@@ -18,6 +18,7 @@ defaults:
       path:       ""
     values:
       recruiter:  Pure Solutions
+      cover_type: foobaz
 
 # Custom vars
 version:          1.0.3
