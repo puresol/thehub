@@ -3,6 +3,7 @@ layout: post
 title: Tuyển dụng Java Developer
 recruiter: Private Client
 valid: true
+cover_type: java
 ---
 
 <p class="message">
