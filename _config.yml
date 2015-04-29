@@ -20,6 +20,7 @@ defaults:
       recruiter:  Pure Solutions
 
 # Custom vars
-version:          1.0.2
+version:          1.0.3
 github:
   repo:           https://github.com/puresol/thehub
+disqus_id:        purebacked-thehub
