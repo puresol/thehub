@@ -7,10 +7,19 @@ layout: default
     <div class="text"><h1>any</br><strong>{% raw %}{ {% endraw %}{{page.cover_type}}{% raw %} }{% endraw %}</strong> developer</br>wanna join us?</h1></div>
   </div>
   <script type="text/javascript">
-    try {
-      document.querySelector('.masthead').style.visibility = 'hidden';
-    } catch(e) {
-      
+    document.querySelector('body').onload = function() {
+      try
+      {
+        document.querySelector('.masthead').style.visibility = 'hidden';
+        document.querySelector('.comment').onmouseover = function() {
+          document.querySelector('.comment-small').style.display = 'inline-block';
+        };
+        document.querySelector('.comment').onmouseout = function() {
+          document.querySelector('.comment-small').style.display = 'none';
+        };
+      } catch(e) {
+        // ignore
+      }
     }
   </script>
 </div>
@@ -22,20 +31,28 @@ layout: default
 </div>
 
 <div class="comment">
-  <h2>Say something</h2>
-  <div id="disqus_thread"></div>
+  <h2>Say something <small class="comment-small">or we're giving up on you</small></h2>
+  <!-- START: Livefyre Embed -->
+  <div id="livefyre-comments"></div>
+  <script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
   <script type="text/javascript">
-      /* * * CONFIGURATION VARIABLES * * */
-      var disqus_shortname = '{{ site.disqus_id }}';
-      
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function() {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
+  (function () {
+      var articleId = fyre.conv.load.makeArticleId(null);
+      fyre.conv.load({}, [{
+          el: 'livefyre-comments',
+          network: "livefyre.com",
+          siteId: "{{ site.livefyre_id }}",
+          articleId: articleId,
+          signed: false,
+          collectionMeta: {
+              articleId: articleId,
+              url: fyre.conv.load.makeCollectionUrl(),
+          }
+      }], function() {});
+  }());
   </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  <!-- END: Livefyre Embed -->
+              
 </div>
 
 <div class="related">
