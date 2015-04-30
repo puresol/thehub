@@ -34,3 +34,8 @@
 .cover {
 	height: 280px;
 }
+
+.comment-small {
+	display: none;
+	color: #DEDEDE;
+}
