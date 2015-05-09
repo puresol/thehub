@@ -19,9 +19,10 @@ defaults:
     values:
       recruiter:  Pure Solutions
       cover_type: foobaz
+      job_type:   developer
 
 # Custom vars
-version:          1.0.3
+version:          1.1.0
 github:
   repo:           https://github.com/puresol/thehub
 disqus_id:        purebacked-thehub
