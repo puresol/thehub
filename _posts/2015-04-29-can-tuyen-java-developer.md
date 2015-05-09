@@ -4,6 +4,7 @@ title: Tuyển dụng Java Developer
 recruiter: Private Client
 valid: true
 cover_type: java
+job_type: developer
 ---
 
 <p class="message">

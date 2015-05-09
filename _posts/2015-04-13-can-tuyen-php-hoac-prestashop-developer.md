@@ -5,6 +5,7 @@ recruiter: Pure Solutions
 valid: true
 validTill: 25/04/2015
 cover_type: php
+job_type: developer
 ---
 
 <p class="message">
